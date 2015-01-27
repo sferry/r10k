@@ -1,0 +1,8 @@
+name 'r10k-mytest'
+version '0.0.1'
+source 'git://github.com/sferry/r10k/tree/mytest'
+author 'R'
+license 'Apache 2.0'
+summary 'r10k test'
+description 'r10k'
+project_page 'https://github.com/sferry/r10k/tree/mytest'
